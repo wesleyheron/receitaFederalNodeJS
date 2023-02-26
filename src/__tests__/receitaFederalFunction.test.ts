@@ -1,4 +1,4 @@
-import httpTrigger from "../../GetReceitaFederal/receitaFederalFunction";
+import httpTrigger from "../../getReceitaFederal/receitaFederalFunction";
 import { Context } from "@azure/functions";
 import { StatusCodes } from 'http-status-codes';
 
